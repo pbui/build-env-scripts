@@ -16,7 +16,7 @@ Students should use these scripts by installing Ubuntu 14.04.3 in a virtual
 machine such as [Virtualbox](https://www.virtualbox.org/) and then cloning this
 repository:
 
-    $ git clone build-env-scripts ~/Source
+    $ git clone https://github.com/ND-CSE-30331-FA15/build-env-scripts.git ~/Source
 
 This will clone the repository and store it on the local machine as `~/Source`.
 
